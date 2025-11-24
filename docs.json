@@ -4,14 +4,14 @@
   "name": "Vertex System",
   "colors": {
     "primary": "#602CFD",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "light": "#E0E7FF",
+    "dark": "#29196C"
   },
   "favicon": "/favicon.svg",
   "navigation": {
     "tabs": [
       {
-        "tab": "Guides",
+        "tab": "Documentação",
         "groups": [
           {
             "group": "Seja Bem Vindo!",
