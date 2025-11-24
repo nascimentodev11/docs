@@ -16,8 +16,15 @@
           {
             "group": "Seja bem vindo!",
             "pages": [
-              "index",
+              "introducao",
               "howtoinstall"
+            ]
+          },
+          {
+            "group": "Empresa",
+            "pages": [
+              "suporte",
+              "faq"
             ]
           },
           {
