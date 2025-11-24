@@ -1,9 +1,9 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "name": "Vertex System",
+  "name": "Mint Starter Kit",
   "colors": {
-    "primary": "#16A34A",
+    "primary": "#602CFD",
     "light": "#07C983",
     "dark": "#15803D"
   },
@@ -11,12 +11,13 @@
   "navigation": {
     "tabs": [
       {
-        "tab": "Documentação",
+        "tab": "Guides",
         "groups": [
           {
             "group": "Seja Bem Vindo!",
             "pages": [
-              "index"
+              "index",
+              "howtoinstall"
             ]
           },
           {
