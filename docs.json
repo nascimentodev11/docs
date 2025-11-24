@@ -14,11 +14,10 @@
         "tab": "Guides",
         "groups": [
           {
-            "group": "Getting started",
+            "group": "Seja Bem Vindo!",
             "pages": [
               "index",
-              "quickstart",
-              "development"
+              "howtoinstall"
             ]
           },
           {
