@@ -23,12 +23,7 @@
             "group": "Empresa",
             "pages": [
               "suporte",
-              "faq",
-              {
-                "tab": "Blog",
-                "icon": "newspaper",
-                "href": "https://external-link.com/blog"
-              }
+              "faq"
             ]
           }
         ]
