@@ -41,6 +41,7 @@
           {
             "group": "Tutoriais",
             "pages": [
+              "bots/tutoriais/bancodados",
               {
                 "group": "Sistema de Whitelist",
                 "icon": "align-left",
@@ -49,8 +50,7 @@
                   "bots/tutoriais/whitelist/codigo",
                   "bots/tutoriais/whitelist/automatica"
                 ]
-              },
-              "bots/tutoriais/bancodados"
+              }
             ]
           }
         ]
