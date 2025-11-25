@@ -25,8 +25,9 @@
               "suporte",
               "faq",
               {
-                "tab": "Termos e Condições",
-                "href": "https://vertexsystem.com.br/termos"
+                "tab": "Blog",
+                "icon": "newspaper",
+                "href": "https://external-link.com/blog"
               }
             ]
           }
