@@ -11,7 +11,7 @@
   "navigation": {
     "tabs": [
       {
-        "tab": "Documentação",
+        "tab": "Introdução",
         "groups": [
           {
             "group": "Seja bem vindo!",
@@ -20,16 +20,46 @@
             ]
           },
           {
-            "group": "Tutoriais",
+            "group": "Empresa",
+            "pages": [
+              "suporte",
+              "faq"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "Documentação BOTs",
+        "groups": [
+          {
+            "group": "Início",
             "pages": [
               "bots/introducao"
             ]
           },
           {
-            "group": "Empresa",
+            "group": "Tutoriais",
             "pages": [
-              "suporte",
-              "faq"
+              "bots/configuracao",
+              "bots/funcionalidades"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "Documentação Sites",
+        "groups": [
+          {
+            "group": "Início",
+            "pages": [
+              "sites/introducao"
+            ]
+          },
+          {
+            "group": "Configuração",
+            "pages": [
+              "sites/instalacao",
+              "sites/configuracao"
             ]
           }
         ]
