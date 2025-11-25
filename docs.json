@@ -42,7 +42,8 @@
             "group": "Tutoriais",
             "pages": [
               {
-                "group": "Whitelist",
+                "group": "Sistema de Whitelist",
+                "icon": "align-left",
                 "pages": [
                   "bots/tutoriais/whitelist/perguntas",
                   "bots/tutoriais/whitelist/codigo",
