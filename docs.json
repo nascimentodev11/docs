@@ -32,15 +32,9 @@
         "tab": "Documentação BOTs",
         "groups": [
           {
-            "group": "Início",
-            "pages": [
-              "bots/introducao"
-            ]
-          },
-          {
             "group": "Tutoriais",
             "pages": [
-              "bots/configuracao",
+              "bots/comoinstalar",
               "bots/funcionalidades"
             ]
           }
