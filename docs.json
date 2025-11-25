@@ -23,7 +23,11 @@
             "group": "Empresa",
             "pages": [
               "suporte",
-              "faq"
+              "faq",
+              {
+                "name": "Termos e Condições",
+                "href": "https://vertexsystem.com.br/termos"
+              }
             ]
           }
         ]
