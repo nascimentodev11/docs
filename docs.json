@@ -15,24 +15,15 @@
         "groups": [
           {
             "group": "Seja bem vindo!",
-            "pages": ["introducao"]
+            "pages": [
+              "introducao"
+            ]
           },
           {
             "group": "Empresa",
-            "menu": [
-              {
-                "item": "Termos e Condições",
-                "href": "https://vertexsystem.com.br/termos",
-                "type": "link"
-              },
-              {
-                "item": "Suporte",
-                "pages": ["suporte"]
-              },
-              {
-                "item": "FAQ",
-                "pages": ["faq"]
-              }
+            "pages": [
+              "suporte",
+              "faq"
             ]
           }
         ]
