@@ -42,8 +42,8 @@
             "group": "Tutoriais",
             "pages": [
               {
-                "page": "bots/tutoriais/whitelist",
-                "children": [
+                "group": "Whitelist",
+                "pages": [
                   "bots/tutoriais/whitelist/perguntas",
                   "bots/tutoriais/whitelist/codigo",
                   "bots/tutoriais/whitelist/automatica"
