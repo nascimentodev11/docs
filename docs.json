@@ -20,6 +20,12 @@
             ]
           },
           {
+            "group": "Tutoriais",
+            "pages": [
+              "bots/introducao"
+            ]
+          },
+          {
             "group": "Empresa",
             "pages": [
               "suporte",
