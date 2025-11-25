@@ -4,14 +4,17 @@ description: "Aqui você vai encontrar as perguntas mais frequentes dos nossos c
 icon: "question"
 ---
 
-<ResponseField name="user" type="User Object">
-  <Expandable title="properties">
-    <ResponseField name="full_name" type="string">
-      The full name of the user
-    </ResponseField>
+<AccordionGroup>
+  <Accordion title="O que é Vertex System">
+    A Vertex System é especializada no desenvolvimento de sites profissionais e BOTs para Discord, criados especialmente para quem busca automação, praticidade e uma presença digital de alto nível.
+  </Accordion>
+  <Accordion title="Start the preview server" icon="rectangle-terminal">
+    1. Install the Mintlify CLI: `npm i -g mint`
+    2. Navigate to your docs directory and run: `mint dev`
+    3. Open `http://localhost:3000` to see your docs live!
 
-    <ResponseField name="is_over_21" type="boolean">
-      Whether the user is over 21 years old
-    </ResponseField>
-  </Expandable>
-</ResponseField>
+    <Tip>
+      Your preview updates automatically as you edit files.
+    </Tip>
+  </Accordion>
+</AccordionGroup>
